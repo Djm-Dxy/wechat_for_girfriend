@@ -11,7 +11,7 @@
 最高温度：{{max_temperature.DATA}}
 {{sid.DATA}}
 距离董有{{birthday_me.DATA}}天
-距离斗的生日还有{{birthday_lover}}天
+距离窦的生日还有{{birthday_lover}}天
 距离元旦还有{{yd.DATA}}天
 距离春节还有{{cj.DATA}}天
 ===在一起共147天===
